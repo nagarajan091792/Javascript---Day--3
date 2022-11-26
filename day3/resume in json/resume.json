@@ -1,0 +1,33 @@
+{
+	     "CONTACT" : {
+			
+        "Name": "NAGARAJAN M H",
+		"Mail": "nagarajan091792@gmail.com",
+		"Phone": 9629828085,
+		"Address": "9/254,Potti Meenakshi Amman Lane, Paramakudi",
+
+		"EDUCATION": {
+
+			"SSLC": "2012-2013,85.4%",
+			"HSS": "2014-2015,75.6%",
+			"DME": "2015-2017,82%",
+
+			"SKILL": {
+
+				"TYPE WRITING": "ENGLISH JUNIOR AND SENIOR",
+				"COMPUTER BASIC": "DIPLOMA IN MS-OFFICE",
+
+				"Personal Details": {
+
+					"DOB": "23-11-1997",
+					"Marital Status": "Single",
+					"Gender": "Male",
+					"Religion": "Hindu(Sourashtra)",
+					"Father's Name": "HARIKRISHNAN M R",
+					"Mother's Name": "LAKSHMI M H"
+				}
+
+			}
+		}
+	}
+}
